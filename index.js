@@ -37,6 +37,7 @@ app.post('/webhook', (req, res) => {
   }
 
 });
+
 // Added webhook endpoint
 // =================================================================================================
 // Adds support for GET requests to our webhook
